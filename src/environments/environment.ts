@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 export const environment = {
   firebaseConfig : {
-    apiKey: "AIzaSyDCMq6c_O5lnkMkzJ8K6pNIIRSXnjwmORg",
-    authDomain: "crude-40b6f.firebaseapp.com",
-    projectId: "crude-40b6f",
-    storageBucket: "crude-40b6f.appspot.com",
-    messagingSenderId: "750599617527",
-    appId: "1:750599617527:web:08d9f2e2380b21ae8eccf2"
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_authDomain",
+    projectId: "YOUR_projectId",
+    storageBucket: "YOUR_storageBucket",
+    messagingSenderId: "YOUR_messagingSenderId",
+    appId: "YOUR_appId"
   },
   production: false
 };
